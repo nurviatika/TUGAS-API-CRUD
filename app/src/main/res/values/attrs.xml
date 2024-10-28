@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomNavigationView">
+        <attr name="defaultFragment" format="enum">
+            <enum name="upcoming" value="1"/>
+            <enum name="finished" value="0"/>
+        </attr>
+    </declare-styleable>
+</resources>

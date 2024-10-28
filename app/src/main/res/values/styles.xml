@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApp.DayNight" parent="Theme.AppCompat.DayNight" />
+
+    <style name="Theme.MyApp.Light" parent="Theme.AppCompat.Light" />
+</resources>

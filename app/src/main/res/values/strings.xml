@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DicodingEvents</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Kirim</string>
+    <string name="Event_yang_aktif">AkanDatang</string>
+    <string name="Event_yang_sudah_selesai">Selesai</string>
+    <string name="Search_event">Pencarian</string>
+    <string name="Detail_event">Detail</string>
+    <string name="event_image_desc">Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">title</string>
+    <string name="title_home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="register_here">Register Here</string>
+    <string name="title_activity_detail">Detail Event</string>
+    <string name="event_aktif">Event Aktif</string>
+    <string name="event_id_not_found">Event ID not found</string>
+    <string name="registration_link_not_available">Registration link is not available</string>
+    <string name="detail_not_found">Detail not found</string>
+    <string name="failed_to_load_event_details">Failed to load event details</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="sisa_kuota">Sisa Kuota:</string>
+    <string name="waktu_acara">Waktu Acara</string>
+    <string name="begin_time">Waktu Acara: %s</string>
+    <string name="remaining_quota">Sisa Kuota: %d</string>
+    <string name="event_details_not_found">Event details not found</string>
+    <string name="favorite">Favorite</string>
+    <string name="date" />
+    <string name="title_event" />
+    <string name="title_favorite" />
+    <string name="favorite_icon_desc" />
+    <string name="My_DataStore" />
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">setting</string>
+    <string name="media_cover_image" />
+    <string name="image_logo_desc" />
+
+
+</resources>
